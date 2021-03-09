@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://p60.github.io/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 23:19:28 +0800</lastBuildDate><atom:link href="https://p60.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>https://p60.github.io/posts/firstpost/</link>
+      <pubDate>Tue, 09 Mar 2021 23:19:28 +0800</pubDate>
+      
+      <guid>https://p60.github.io/posts/firstpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myfirst</title>
+      <link>https://p60.github.io/post/myfirst/</link>
+      <pubDate>Tue, 09 Mar 2021 23:04:05 +0800</pubDate>
+      
+      <guid>https://p60.github.io/post/myfirst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
