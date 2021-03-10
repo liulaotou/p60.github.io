@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>https://blog-e687.pages.dev/</link>
+    <link>http://www.p60.me/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 23:19:28 +0800</lastBuildDate><atom:link href="https://blog-e687.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 23:19:28 +0800</lastBuildDate><atom:link href="http://www.p60.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://blog-e687.pages.dev/posts/firstpost/</link>
+      <link>http://www.p60.me/posts/firstpost/</link>
       <pubDate>Tue, 09 Mar 2021 23:19:28 +0800</pubDate>
       
-      <guid>https://blog-e687.pages.dev/posts/firstpost/</guid>
+      <guid>http://www.p60.me/posts/firstpost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Myfirst</title>
-      <link>https://blog-e687.pages.dev/post/myfirst/</link>
+      <link>http://www.p60.me/post/myfirst/</link>
       <pubDate>Tue, 09 Mar 2021 23:04:05 +0800</pubDate>
       
-      <guid>https://blog-e687.pages.dev/post/myfirst/</guid>
+      <guid>http://www.p60.me/post/myfirst/</guid>
       <description></description>
     </item>
     
