@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>http://www.p60.me/post/</link>
+    <link>https://www.p60.me/post/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 23:04:05 +0800</lastBuildDate><atom:link href="http://www.p60.me/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 23:04:05 +0800</lastBuildDate><atom:link href="https://www.p60.me/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirst</title>
-      <link>http://www.p60.me/post/myfirst/</link>
+      <link>https://www.p60.me/post/myfirst/</link>
       <pubDate>Tue, 09 Mar 2021 23:04:05 +0800</pubDate>
       
-      <guid>http://www.p60.me/post/myfirst/</guid>
+      <guid>https://www.p60.me/post/myfirst/</guid>
       <description></description>
     </item>
     
